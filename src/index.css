@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.tablecss
+{
+  border: coral;
+  border-style:double;  
+}
+#luckysingh
+{
+  color: darkturquoise;
+}
+*
+{
+  color:mediumaquamarine !important;
+}
